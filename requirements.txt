@@ -1,0 +1,11 @@
+
+streamlit
+google-cloud-bigquery
+pandas
+sentence-transformers
+googletrans
+scikit-learn
+lingua-language-detector
+numpy
+pdfplumber
+db-dtypes
